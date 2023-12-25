@@ -3,5 +3,6 @@ Paper: [https://paper.xenon.dev/Diffie-Hellman and Diffie-Hellman Ephemeral comb
 
 <br>
 
-This repository is for writing DHEC papers and committing Examples.<br>
-As a rule, Pull Requests etc. are not accepted.
+*This repository is for writing DHEC papers and committing Examples.*
+
+*As a rule, Pull Requests etc. are not accepted.*
